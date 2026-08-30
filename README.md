@@ -2,29 +2,30 @@
 
 ## Overview
 
-Hands-on IT project involving the configuration of a peer-to-peer network between Windows computers using the Ethernet.
+Hands-on IT networking project involving the transfer of a text document between two Windows computers through a network switch using Ethernet. Configured both computers' Ethernet network profiles as private using PowerShell, independently troubleshooting and resolving the network configuration before completing the file transfer.
 
 ## What I did
 
-- Connected Windows computers using Ethernet.
-- Configured Windows network settings.
-- Configured network profiles to allow
-communication between systems.
--Tested connectivity between computers.
--Troubleshot network configuration issues.
+- Connected two Windows computers to a network switch using Ethernet.
+- Configured both computer's Ethernet network profiles as private using PowerShell.
+- Troubleshot and resolved network connectivity issues independently.
+- Established communication between the two computers.
+- Transferred a text document from one computer to the other.
 
 ## Skills Used
--Windows networking
-- Ethernet
-- Peer-to-Peer networking
-- Network configuration
-- Technical troubleshooting
+- Ethernet Networking
+- Peer-to-Peer Networking
+- PowerShell
+- Network Profiles
+- Network Troubleshooting
+- File Transfer & Connectivity Testing
 
 ## What i Learned 
 
-This project helped me understand how computers communicate directly over a network and how Windows network settings and profiles affect connectivity.
+Learned how Windows network profiles affect communication systems and how to configure network connectivity using PowerShell. Gained practical experience troubleshooting
+network configuration issues and establishing communication between computers through an Ethernet switch.
 
-## Documentation
+
 
 
 
